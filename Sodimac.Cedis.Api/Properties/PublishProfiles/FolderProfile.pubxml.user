@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Yepg06\source\SIL_ETQ_MS_IMPRIMIRETQ_NCORE-1\Sodimac.Cedis.Api\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-05-25T18:25:28.7193788Z;True|2022-05-25T13:24:37.6665054-05:00;True|2022-05-25T13:14:09.4824884-05:00;True|2022-05-25T12:19:59.0808589-05:00;True|2022-05-25T12:02:29.8391249-05:00;True|2022-05-25T11:41:52.4704338-05:00;False|2022-05-25T11:37:43.5541283-05:00;True|2022-05-25T10:08:28.8440027-05:00;True|2022-05-25T08:27:01.6659876-05:00;True|2022-05-24T16:48:55.8248531-05:00;True|2022-05-23T21:13:52.9740911-05:00;</History>
+  </PropertyGroup>
+</Project>
